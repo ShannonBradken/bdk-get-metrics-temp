@@ -1,0 +1,12 @@
+{
+  "name": "get-metrics-dashboard",
+  "version": "1.0.0",
+  "description": "Bradken Get Metrics Dashboard",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -s . -p 8080"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
